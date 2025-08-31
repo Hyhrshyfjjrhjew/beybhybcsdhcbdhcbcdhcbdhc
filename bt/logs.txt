@@ -1,0 +1,190 @@
+[11-Aug-25 12:07:13 AM - INFO] - <module>() - Line 450: __main__ - Bot Started!
+[11-Aug-25 12:07:25 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/551668
+[11-Aug-25 12:07:28 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/551669
+[11-Aug-25 12:07:31 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/551670
+[11-Aug-25 12:07:31 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/352/551670.jpg
+[11-Aug-25 12:07:31 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/352/551670.jpg (photo)
+[11-Aug-25 12:07:31 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/352/551670.jpg
+[11-Aug-25 12:07:34 AM - INFO] - download_range() - Line 331: __main__ - Processing media group 14027015123488356 at message 551671
+[11-Aug-25 12:07:35 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/551671
+[11-Aug-25 12:07:35 AM - INFO] - processMediaGroup() - Line 236: helpers.utils - Downloading media group with 3 items...
+[11-Aug-25 12:07:35 AM - INFO] - processMediaGroup() - Line 245: helpers.utils - Processing media 1/3
+[11-Aug-25 12:07:35 AM - INFO] - processMediaGroup() - Line 245: helpers.utils - Processing media 2/3
+[11-Aug-25 12:07:35 AM - INFO] - processMediaGroup() - Line 245: helpers.utils - Processing media 3/3
+[11-Aug-25 12:07:35 AM - INFO] - processMediaGroup() - Line 331: helpers.utils - Valid media count: 3
+[11-Aug-25 12:07:35 AM - INFO] - processMediaGroup() - Line 335: helpers.utils - Sending media group...
+[11-Aug-25 12:07:36 AM - INFO] - processMediaGroup() - Line 337: helpers.utils - Media group sent successfully
+[11-Aug-25 12:07:36 AM - INFO] - processMediaGroup() - Line 391: helpers.utils - Cleaning up 3 files
+[11-Aug-25 12:07:36 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/Image to PDF 20250718 08.52.03.pdf
+[11-Aug-25 12:07:36 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/Image to PDF 20250718 08.53.24.pdf
+[11-Aug-25 12:07:36 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/Image to PDF 20250718 08.49.41.pdf
+[11-Aug-25 12:07:36 AM - INFO] - download_range() - Line 348: __main__ - Media group 14027015123488356 contained 3 files
+[11-Aug-25 12:07:39 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/551674
+[11-Aug-25 12:07:43 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/551677
+[11-Aug-25 12:09:36 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507462
+[11-Aug-25 12:09:39 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507463
+[11-Aug-25 12:09:43 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507464
+[11-Aug-25 12:09:47 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200410_10221377668407312_Facebook Live.mp4
+[11-Aug-25 12:09:47 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200410_10221377668407312_Facebook Live.mp4 (video)
+[11-Aug-25 12:09:49 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_fff506c2-9975-4b6b-920f-5764bd65d42a.jpg
+[11-Aug-25 12:09:49 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200410_10221377668407312_Facebook Live.mp4
+[11-Aug-25 12:09:53 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507465
+[11-Aug-25 12:10:11 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200410_10221377989295334_Facebook Live.mp4
+[11-Aug-25 12:10:11 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200410_10221377989295334_Facebook Live.mp4 (video)
+[11-Aug-25 12:10:31 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_f6e0d4a5-a3e9-4ef1-b221-404416cb2915.jpg
+[11-Aug-25 12:10:31 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200410_10221377989295334_Facebook Live.mp4
+[11-Aug-25 12:10:35 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507466
+[11-Aug-25 12:11:06 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200411_10221385581845143_Facebook Live.mp4
+[11-Aug-25 12:11:06 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200411_10221385581845143_Facebook Live.mp4 (video)
+[11-Aug-25 12:11:38 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_a42fa4b5-5e2a-4377-8b6e-df5873232852.jpg
+[11-Aug-25 12:11:38 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200411_10221385581845143_Facebook Live.mp4
+[11-Aug-25 12:11:41 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507467
+[11-Aug-25 12:11:41 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200413_10221412729443816_Vidéo.mp4
+[11-Aug-25 12:11:41 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200413_10221412729443816_Vidéo.mp4 (video)
+[11-Aug-25 12:11:42 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_05ec3ac9-9805-44f2-87f4-668c4970307c.jpg
+[11-Aug-25 12:11:42 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200413_10221412729443816_Vidéo.mp4
+[11-Aug-25 12:11:45 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507468
+[11-Aug-25 12:11:46 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200413_10221413347139258_Facebook Live.mp4
+[11-Aug-25 12:11:46 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200413_10221413347139258_Facebook Live.mp4 (video)
+[11-Aug-25 12:11:47 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_de5e7f38-990b-4155-9fd7-638f3a4aa797.jpg
+[11-Aug-25 12:11:47 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200413_10221413347139258_Facebook Live.mp4
+[11-Aug-25 12:11:50 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507469
+[11-Aug-25 12:11:51 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200414_10221413885832725_Facebook Live.mp4
+[11-Aug-25 12:11:51 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200414_10221413885832725_Facebook Live.mp4 (video)
+[11-Aug-25 12:11:52 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_b5788399-ef99-4860-8130-0f986f451dd7.jpg
+[11-Aug-25 12:11:52 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200414_10221413885832725_Facebook Live.mp4
+[11-Aug-25 12:11:56 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507470
+[11-Aug-25 12:11:56 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200414_10221421554864446_Facebook Live.mp4
+[11-Aug-25 12:11:56 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200414_10221421554864446_Facebook Live.mp4 (video)
+[11-Aug-25 12:11:57 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_de2fbaa7-2081-4096-8bcd-4ac11724320c.jpg
+[11-Aug-25 12:11:57 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200414_10221421554864446_Facebook Live.mp4
+[11-Aug-25 12:12:00 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507471
+[11-Aug-25 12:12:27 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200415_10221431194065420_Facebook Live.mp4
+[11-Aug-25 12:12:27 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200415_10221431194065420_Facebook Live.mp4 (video)
+[11-Aug-25 12:12:54 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_88eb9418-5bb6-445d-a582-4977922f26e4.jpg
+[11-Aug-25 12:12:54 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200415_10221431194065420_Facebook Live.mp4
+[11-Aug-25 12:12:57 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507472
+[11-Aug-25 12:12:58 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200416_10221441178795032_Facebook Live.mp4
+[11-Aug-25 12:12:58 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200416_10221441178795032_Facebook Live.mp4 (video)
+[11-Aug-25 12:12:59 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_4cab820f-c2bb-405b-b5c4-4477147acec2.jpg
+[11-Aug-25 12:12:59 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200416_10221441178795032_Facebook Live.mp4
+[11-Aug-25 12:13:02 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507473
+[11-Aug-25 12:13:35 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200417_10221455234026404_Facebook Live.mp4
+[11-Aug-25 12:13:35 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200417_10221455234026404_Facebook Live.mp4 (video)
+[11-Aug-25 12:13:59 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_89db1541-0e01-4db8-8fbf-54b82f6a0aba.jpg
+[11-Aug-25 12:13:59 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200417_10221455234026404_Facebook Live.mp4
+[11-Aug-25 12:14:02 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507474
+[11-Aug-25 12:14:24 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200418_10221466735033922_Facebook Live.mp4
+[11-Aug-25 12:14:24 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200418_10221466735033922_Facebook Live.mp4 (video)
+[11-Aug-25 12:14:49 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_03b65e44-91ed-4581-afcd-983fc03685cb.jpg
+[11-Aug-25 12:14:49 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200418_10221466735033922_Facebook Live.mp4
+[11-Aug-25 12:14:52 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507475
+[11-Aug-25 12:14:53 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200420_10221491235286413_Vidéo.mp4
+[11-Aug-25 12:14:53 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200420_10221491235286413_Vidéo.mp4 (video)
+[11-Aug-25 12:14:54 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_ff23bbef-e4bc-4019-a5f9-feb72dc0f06f.jpg
+[11-Aug-25 12:14:54 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200420_10221491235286413_Vidéo.mp4
+[11-Aug-25 12:14:58 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507476
+[11-Aug-25 12:15:06 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200421_10221498842796596_Vidéo.mp4
+[11-Aug-25 12:15:06 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200421_10221498842796596_Vidéo.mp4 (video)
+[11-Aug-25 12:15:14 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_42a405be-9c95-4186-af03-21d8f0d87a9c.jpg
+[11-Aug-25 12:15:14 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200421_10221498842796596_Vidéo.mp4
+[11-Aug-25 12:15:17 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507477
+[11-Aug-25 12:15:21 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200422_10221516224311123_Facebook Live.mp4
+[11-Aug-25 12:15:21 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200422_10221516224311123_Facebook Live.mp4 (video)
+[11-Aug-25 12:15:23 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_c73cffb3-004e-4785-9213-29f960714965.jpg
+[11-Aug-25 12:15:23 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200422_10221516224311123_Facebook Live.mp4
+[11-Aug-25 12:15:27 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507478
+[11-Aug-25 12:15:50 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200422_10221516402035566_Facebook Live.mp4
+[11-Aug-25 12:15:50 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200422_10221516402035566_Facebook Live.mp4 (video)
+[11-Aug-25 12:16:12 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_812e2093-fe03-4b21-90f3-471187dd1bba.jpg
+[11-Aug-25 12:16:12 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200422_10221516402035566_Facebook Live.mp4
+[11-Aug-25 12:16:16 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507479
+[11-Aug-25 12:16:39 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200424_10221540755124378_Facebook Live.mp4
+[11-Aug-25 12:16:39 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200424_10221540755124378_Facebook Live.mp4 (video)
+[11-Aug-25 12:17:05 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_961fffe7-de1b-45b6-91f2-6aa3f146bf57.jpg
+[11-Aug-25 12:17:05 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200424_10221540755124378_Facebook Live.mp4
+[11-Aug-25 12:17:09 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507480
+[11-Aug-25 12:17:12 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200427_10221579265567115_Vidéo.mp4
+[11-Aug-25 12:17:12 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200427_10221579265567115_Vidéo.mp4 (video)
+[11-Aug-25 12:17:14 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_09aaba81-0fb0-4800-89e9-d50e61660a29.jpg
+[11-Aug-25 12:17:14 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200427_10221579265567115_Vidéo.mp4
+[11-Aug-25 12:17:17 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507481
+[11-Aug-25 12:17:42 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200429_10221600881867509_Facebook Live.mp4
+[11-Aug-25 12:17:42 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200429_10221600881867509_Facebook Live.mp4 (video)
+[11-Aug-25 12:18:06 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_07024234-4202-4cb2-9331-a0685e9ac427.jpg
+[11-Aug-25 12:18:06 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200429_10221600881867509_Facebook Live.mp4
+[11-Aug-25 12:18:09 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507482
+[11-Aug-25 12:18:34 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200501_10221623230506211_Facebook Live.mp4
+[11-Aug-25 12:18:34 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200501_10221623230506211_Facebook Live.mp4 (video)
+[11-Aug-25 12:19:01 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_d807ef7a-e2de-4ca2-bb36-2c019f1a643f.jpg
+[11-Aug-25 12:19:01 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200501_10221623230506211_Facebook Live.mp4
+[11-Aug-25 12:19:05 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507483
+[11-Aug-25 12:19:28 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200502_10221637683827535_Facebook Live.mp4
+[11-Aug-25 12:19:28 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200502_10221637683827535_Facebook Live.mp4 (video)
+[11-Aug-25 12:19:53 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_6a94aef1-ba9c-41dc-8cc8-63d9727b8833.jpg
+[11-Aug-25 12:19:53 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200502_10221637683827535_Facebook Live.mp4
+[11-Aug-25 12:19:56 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507484
+[11-Aug-25 12:20:20 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200506_10221681999535400_Facebook Live.mp4
+[11-Aug-25 12:20:20 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200506_10221681999535400_Facebook Live.mp4 (video)
+[11-Aug-25 12:20:48 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_82f0f1f0-5de2-45fd-8e07-b8ba531664fe.jpg
+[11-Aug-25 12:20:48 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200506_10221681999535400_Facebook Live.mp4
+[11-Aug-25 12:20:51 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507485
+[11-Aug-25 12:21:13 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200508_10221704324413508_Facebook Live.mp4
+[11-Aug-25 12:21:13 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200508_10221704324413508_Facebook Live.mp4 (video)
+[11-Aug-25 12:21:37 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_c0c9238a-d085-401b-b7f8-976057d07f40.jpg
+[11-Aug-25 12:21:37 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200508_10221704324413508_Facebook Live.mp4
+[11-Aug-25 12:21:40 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507486
+[11-Aug-25 12:21:59 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200509_10221716147669082_Facebook Live.mp4
+[11-Aug-25 12:21:59 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200509_10221716147669082_Facebook Live.mp4 (video)
+[11-Aug-25 12:22:20 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_755c59f4-855e-43b7-ba10-d1873ba9dbdf.jpg
+[11-Aug-25 12:22:20 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200509_10221716147669082_Facebook Live.mp4
+[11-Aug-25 12:22:24 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507487
+[11-Aug-25 12:22:48 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200513_10221760760224368_Facebook Live.mp4
+[11-Aug-25 12:22:48 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200513_10221760760224368_Facebook Live.mp4 (video)
+[11-Aug-25 12:23:11 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_834f3419-73be-4fd7-a67c-90a85b810a8d.jpg
+[11-Aug-25 12:23:11 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200513_10221760760224368_Facebook Live.mp4
+[11-Aug-25 12:23:14 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507488
+[11-Aug-25 12:23:33 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200514_10221774550769123_Facebook Live.mp4
+[11-Aug-25 12:23:33 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200514_10221774550769123_Facebook Live.mp4 (video)
+[11-Aug-25 12:23:52 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_723fa850-6f3f-48cc-aaba-e0170ee6e49c.jpg
+[11-Aug-25 12:23:52 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200514_10221774550769123_Facebook Live.mp4
+[11-Aug-25 12:23:56 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507489
+[11-Aug-25 12:24:16 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200515_10221782596250255_Facebook Live.mp4
+[11-Aug-25 12:24:16 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200515_10221782596250255_Facebook Live.mp4 (video)
+[11-Aug-25 12:24:35 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_4b99f9e8-e895-45d0-84f5-9ba33d00b997.jpg
+[11-Aug-25 12:24:35 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200515_10221782596250255_Facebook Live.mp4
+[11-Aug-25 12:24:39 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507490
+[11-Aug-25 12:24:57 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200516_10221792749344076_Facebook Live.mp4
+[11-Aug-25 12:24:57 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200516_10221792749344076_Facebook Live.mp4 (video)
+[11-Aug-25 12:25:13 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_753c0fd3-96a7-4d3d-9980-1fe088838de4.jpg
+[11-Aug-25 12:25:13 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200516_10221792749344076_Facebook Live.mp4
+[11-Aug-25 12:25:16 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507491
+[11-Aug-25 12:25:36 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200520_10221835159164295_Facebook Live.mp4
+[11-Aug-25 12:25:36 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200520_10221835159164295_Facebook Live.mp4 (video)
+[11-Aug-25 12:25:57 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_23ba0534-94b9-403a-a7e4-f2004cdd3870.jpg
+[11-Aug-25 12:25:57 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200520_10221835159164295_Facebook Live.mp4
+[11-Aug-25 12:26:00 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507492
+[11-Aug-25 12:26:10 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200521_10221841000150316_Vidéo.mp4
+[11-Aug-25 12:26:10 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200521_10221841000150316_Vidéo.mp4 (video)
+[11-Aug-25 12:26:19 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_4588ed0b-ff6d-493b-8544-f368ba34575d.jpg
+[11-Aug-25 12:26:19 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200521_10221841000150316_Vidéo.mp4
+[11-Aug-25 12:26:22 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507493
+[11-Aug-25 12:26:32 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200521_10221843108843032_Vidéo.mp4
+[11-Aug-25 12:26:32 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200521_10221843108843032_Vidéo.mp4 (video)
+[11-Aug-25 12:26:42 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_10fea56d-bd06-464e-b6f2-482eb2ccbe70.jpg
+[11-Aug-25 12:26:42 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200521_10221843108843032_Vidéo.mp4
+[11-Aug-25 12:26:45 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507494
+[11-Aug-25 12:26:53 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200521_10221845665266941_Vidéo.mp4
+[11-Aug-25 12:26:53 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200521_10221845665266941_Vidéo.mp4 (video)
+[11-Aug-25 12:27:01 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_6f678082-06f6-4d88-b9a8-713d1da5fe6b.jpg
+[11-Aug-25 12:27:01 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200521_10221845665266941_Vidéo.mp4
+[11-Aug-25 12:27:04 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507495
+[11-Aug-25 12:27:07 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200521_10221845699987809_Vidéo.mp4
+[11-Aug-25 12:27:07 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200521_10221845699987809_Vidéo.mp4 (video)
+[11-Aug-25 12:27:10 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_795b3dfb-072d-4d46-8a48-9e214b17e819.jpg
+[11-Aug-25 12:27:10 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200521_10221845699987809_Vidéo.mp4
+[11-Aug-25 12:27:13 AM - INFO] - handle_download() - Line 130: __main__ - Downloading media from URL: https://t.me/bac_2m/399550/507496
+[11-Aug-25 12:27:22 AM - INFO] - handle_download() - Line 175: __main__ - Downloaded media: /home/user/kolo/bt/downloads/365/20200521_10221849974454668_Vidéo.mp4
+[11-Aug-25 12:27:22 AM - INFO] - send_media() - Line 412: helpers.utils - Uploading media: /home/user/kolo/bt/downloads/365/20200521_10221849974454668_Vidéo.mp4 (video)
+[11-Aug-25 12:27:30 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: Assets/thumb_654be9a7-b725-40a2-aeef-f23482e16a04.jpg
+[11-Aug-25 12:27:30 AM - INFO] - cleanup_download() - Line 19: helpers.files - Cleaning Download: /home/user/kolo/bt/downloads/365/20200521_10221849974454668_Vidéo.mp4
